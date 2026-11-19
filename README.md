@@ -32,6 +32,8 @@ The package contains only datasets used in the manuscript:
 - 5 leave-class OOD tasks, constructed from Optical Digits, Segment, Vehicle,
   Vowel and HAR
 
+Datasets we used are available online. For more details, please check "DATASET_SOURCES.md".
+
 Vision dataset raw files are included because `code/harness/scripts/extract_features.py`
 is the code that produced the frozen features. ImageNette, Omniglot, the image OOD
 sets and all excluded or pilot datasets are not included.
